@@ -1,7 +1,8 @@
 ### Olá! Sou a Vanessa Nitto!
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente atuo como Farmacêutica Clínica
+- 🌱 Atualmente auto como Analista de Sistema Pleno
+- 🌱 Anteriormente atuava como Farmacêutica Clínica
 - 🤔 Pós Graduação em Farmácia Oncológica
 - 💬 Pós Graduação em Farmácia Clínica e Hospitalar
 - 😄 Pronouns: ela/dela
